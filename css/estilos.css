@@ -17,3 +17,9 @@ body{
     text-align: left;
 
 }
+
+p{
+    text-align: left;
+    padding-left: 40px;
+    font-weight: bold;
+}
