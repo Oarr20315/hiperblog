@@ -3,3 +3,17 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     color: blue;
 }
+
+.blogpost{
+    border: 1px black solid;
+    
+}
+
+.cabecera{
+    color: white;
+    background-color: rgb(37, 37, 165);
+    font-weight: bold;
+    padding: 5px;
+    text-align: left;
+
+}
