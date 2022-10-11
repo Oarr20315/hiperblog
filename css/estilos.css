@@ -6,6 +6,8 @@ body{
 
 .blogpost{
     border: 1px black solid;
+    width: 80%;
+    margin: auto;
     
 }
 
@@ -15,5 +17,7 @@ body{
     font-weight: bold;
     padding: 5px;
     text-align: left;
+    box-shadow: 5px 5px 5px black;
+    margin-bottom: 20px;
 
 }
