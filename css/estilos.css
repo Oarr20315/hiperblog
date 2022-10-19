@@ -30,3 +30,12 @@ p{
     font-size: 1.5em;
     color: green;
 }
+
+footer{
+    background-color: grey;
+    color: white;
+}
+
+footer p{
+    text-align: center;
+}
