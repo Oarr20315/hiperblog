@@ -2,23 +2,31 @@ body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     color: blue;
+    background-color: grey;
+    
 }
 
 .blogpost{
     border: 1px black solid;
     width: 80%;
     margin: auto;
+    background-color: white;
+    
     
 }
 
 .cabecera{
     color: white;
-    background-color: rgb(8, 92, 33);
+    background-color: rgb(95, 105, 238);
     font-weight: bold;
     padding: 5px;
     box-shadow: 5px 5px 5px black;
     margin-bottom: 20px;
     border-radius: 10px;
+    background-image: url("../imagenes/capsula.png");
+    background-size: 50px;
+    background-repeat: no-repeat;
+    background-position: 60px;
 
 }
 
